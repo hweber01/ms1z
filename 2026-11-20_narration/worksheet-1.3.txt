@@ -1,0 +1,31 @@
+Exercise 1: Task or Goal?
+
+Part 1. Mark each sentence as a Goal (an end state: what has to be true when you're done) or a Task (an action: one way to get there).
+
+1. Everyone on the team knows the new process.
+2. Send the weekly report.
+3. Customers who call get an answer the same day.
+4. Book a meeting room for the training.
+5. The new hire can work on their own.
+6. Update the slides for the client meeting.
+7. Every guest at the event is seated before it starts.
+8. Call three suppliers for prices.
+9. All the team's laptops work on Monday morning.
+10. Hire a new designer.
+
+Part 2: Reverse derivation
+- Write down five items from your to-do list for this week.
+- Next to each item, write the goal it serves.
+- Mark the items with no clear goal. For each one, decide: drop it, change it, or ask your manager what it is for.
+
+Answer key
+1. Goal. It describes what is true at the end.
+2. Task. An action. The goal behind it might be: the people who read it know where the project stands.
+3. Goal. It describes what is true for every customer who calls.
+4. Task. An action. The goal behind it might be: the team can use the new tool.
+5. Goal. An end state you can picture.
+6. Task. An action. The goal behind it might be: the client agrees to the next step.
+7. Goal. It describes the moment when it is done.
+8. Task. An action. The goal behind it might be: we buy at a price we can afford.
+9. Goal. It describes what is true on Monday morning.
+10. Task, even though it sounds big. Hiring is an action. The goal behind it might be: design work gets done on time. Sometimes there is another way to reach that goal.

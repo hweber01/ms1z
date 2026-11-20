@@ -1,0 +1,45 @@
+Lesson 2.1: Goal, Task, Constraint
+
+In this lesson we'll pin down three words we'll use in every lesson from now on: goal, task and constraint.
+
+They sound simple. But most planning problems start when people mix them up.
+
+A goal is the end state. It describes what has to be true when we're done.
+
+Not what we do. What is true at the end.
+
+A simple test: can you picture the moment it's done? Everyone who eats is full. You can picture that.
+
+A task is an action. It usually starts with a verb: buy, cook, call, send.
+
+A task is only worth doing if it moves you toward the goal.
+
+And tasks can change. If the store is closed, buying groceries stops being a good task. But the goal is still there.
+
+A constraint is a limit. Time, money, rules, things you can't use.
+
+Lunch is at one o'clock. We have twenty dollars. One of the kids is allergic to peanuts.
+
+Constraints don't tell you where to go. They tell you which roads are closed.
+
+Why does this matter?
+
+When a task is treated as a goal, people keep doing it even after it stops helping.
+
+When a constraint is packed into the goal, every change in the limit feels like failure. Lunch at one becomes lunch at a quarter past one, and suddenly the whole plan feels broken. Even though everyone still gets fed.
+
+Now let's try it at work. Your manager says: get the report to the client by Friday.
+
+Which part is which? Send the report is a task. By Friday is a constraint.
+
+So where's the goal? It isn't there. And that's very common.
+
+The goal is what should be true after the client reads the report. Maybe the client approves the next phase. Maybe they have what they need to make a decision.
+
+When the goal is missing, ask. One simple question works almost every time: what should be true when this is done?
+
+Most managers are glad to answer it. And once you know the answer, you can do a much better job than just sending a file on time.
+
+So, three words. A goal is the end state. A task is an action that moves you toward it. A constraint is a limit you work within.
+
+In the next lesson, we'll look at one more word that causes a lot of confusion.
